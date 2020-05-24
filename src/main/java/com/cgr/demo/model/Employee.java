@@ -1,21 +1,16 @@
 package com.cgr.demo.model;
 
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+
+@Document(collection = "Employee")
 public class Employee {
 	 
+	@Id
     private String empNo;
     private String empName;
     private String position;
- 
-    private Employee() {
-    	
-    }
-    
-    public Employee(String empNo, String empName, String position) {
-    	this();
-        this.empNo = empNo;
-        this.empName = empName;
-        this.position = position;
-    }
+
  
     public String getEmpNo() {
         return empNo;
@@ -40,5 +35,5 @@ public class Employee {
     public void setPosition(String position) {
         this.position = position;
     }
- 
+
 }

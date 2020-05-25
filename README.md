@@ -1,9 +1,35 @@
 # SpringBootTraining
-Run project with application-dev.properties
+
+* CGR-Demo
+Project work with mongoDB Employee data.
+
+* Demo-RestAPIs
+Project to communicate through Web services using Rest Template
+
+* mogodata.json
+MongoDB mock up data used test projects
+
+* postman_collection.json
+Postman collection requests to test projects
 
 
-In the root path of the project you will find these files to test it:
+# Getting Started
 
-MongoDB database = mogodata.json
+### Reference Documentation
+For further reference, please consider the following sections:
 
-Postman collection = postman_collection.json
+* [Official Gradle documentation](https://docs.gradle.org)
+* [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.7.RELEASE/gradle-plugin/reference/html/)
+* [Spring Web](https://docs.spring.io/spring-boot/docs/2.2.7.RELEASE/reference/htmlsingle/#boot-features-developing-web-applications)
+
+### Guides
+The following guides illustrate how to use some features concretely:
+
+* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
+
+### Additional Links
+These additional references should also help you:
+
+* [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)

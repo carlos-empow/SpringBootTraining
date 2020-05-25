@@ -1,15 +1,19 @@
 # SpringBootTraining
 
 * CGR-Demo
+
 Project work with mongoDB Employee data.
 
 * Demo-RestAPIs
+
 Project to communicate through Web services using Rest Template
 
 * mogodata.json
+
 MongoDB mock up data used test projects
 
 * postman_collection.json
+
 Postman collection requests to test projects
 
 

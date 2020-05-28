@@ -1,9 +1,12 @@
 # SpringBootTraining
 
-* CGR-Demo
-Project work with mongoDB Employee data.
+* mongoconfig-client
+Config client project with mongoDB Employee data.
 
-* Demo-RestAPIs
+* mongoconfig-server
+Config server project (config client properties = https://github.com/carlos-empow/ApplicationProperties)
+
+* resttemplate-api
 Project to communicate through Web services using Rest Template
 
 * mogodata.json
@@ -11,6 +14,7 @@ MongoDB mock up data used test projects
 
 * postman_collection.json
 Postman collection requests to test projects
+
 
 
 # Getting Started

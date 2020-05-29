@@ -1,5 +1,9 @@
 # SpringBootTraining
 
+* edge-service
+
+  Zuul dge service project which communicates with mongoconfig-client.
+
 * mongoconfig-client
 
   Config client project with mongoDB Employee data.
@@ -18,7 +22,7 @@
 
 * postman_collection.json
 
-  Postman collection requests to test projects
+  Postman collection requests to test projects-
 
 
 

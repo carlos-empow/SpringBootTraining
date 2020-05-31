@@ -1,12 +1,16 @@
 # SpringBootTraining
 
+* eureka-server
+
+  Implements eureka server, complete flow of zuul with eureka registry
+
 * edge-service
 
-  Zuul dge service project which communicates with mongoconfig-client.
+  Zuul edge service project which communicates with mongoconfig-client, added eureka service registry
 
 * mongoconfig-client
 
-  Config client project with mongoDB Employee data.
+  Config client project with mongoDB Employee data, eureka client registeres with eureka server
 
 * mongoconfig-server
 
